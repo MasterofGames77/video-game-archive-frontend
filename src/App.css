@@ -1,0 +1,19 @@
+/* Updated App.css */
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App h1 {
+  font-size: 2rem;
+}
+
+main {
+  padding: 20px;
+}
